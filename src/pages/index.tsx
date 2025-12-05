@@ -120,7 +120,10 @@ class HomeComponent extends React.Component<WithTranslation> {
                 <a className=' text-accent-focus ' href="https://github.com/velor2012/anonymous-chat-room" rel="noopener">
                 GitHub
                 </a>
-                .
+                .    -
+                <a className=' text-accent-focus ' href="https://space.bilibili.com/277685481" rel="noopener">
+                The page creators' bilibili
+                </a>
             </footer>
             {/* <div>
                 <HistoryCard/>
