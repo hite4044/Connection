@@ -44,12 +44,12 @@ class HomeComponent extends React.Component<WithTranslation> {
 
                             </div>
                             <div className='text-xl md:text-5xl mb-2 block sm:hidden'>
-                                Anonymous Chat Room
+                                Welcome to Connection
                             </div>
                         </div>
                     ) : (
                         <div className='text-xl md:text-5xl mb-2 block'>
-                            欢迎来到匿名聊天室
+                            Welcome to Connection
                         </div>
                     )
                 }
